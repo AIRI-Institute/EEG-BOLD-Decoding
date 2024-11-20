@@ -30,7 +30,7 @@ This repository follows the next structure:
 For this project we preprocessed the data from Natural Viewing Dataset (Telesford, Q.K., Gonzalez-Moreira, E., Xu, T. 
 et al. An open-access dataset of naturalistic viewing using simultaneous EEG-fMRI. Sci Data 10, 554 (2023).
 https://doi.org/10.1038/s41597-023-02458-8). We only preprocessed and utilize the subjects which have all the 
-recordings with all the sessions and tasks. To run this code, firstly download our preprocessed files from !LINK!
+recordings with all the sessions and tasks. To run this code, firstly download our [preprocessed files](https://zenodo.org/records/11246524)
 and put them into the ```NaturalViewingDataset``` directory in the root of the project. If you utilize this data in
 your study please credit us and the original creators of the Natural Viewing Dataset.
 

@@ -3,7 +3,7 @@ from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).parent.parent.parent.resolve()
 
-ALL_SUBJECTS = ['04', '07', '08', '10', '11', '12', '13', '14', '15', '16', '19', '20', '21', '22']
+ALL_SUBJECTS = ['04', '07', '10', '11', '12', '13', '14', '15', '16', '19', '22']
 EEG_SAMPLING_RATE = 250
 FMRI_TR = 2.1  # sec
 

@@ -137,10 +137,24 @@ Note: by default these functions will try to plot all the graphs for all the sub
 could take a long time. You can adjust what you want to plot. If you want to adjust some 
 parameters look into the modules that are being called
 
-## Citing BrainWaveLinker
+## Citation
 
 If you use our data or code please cite the following paper:
-!LINK!
+Ilia Semenkov, Pavel Rudych, Alex Ossadtchi. Beyond the Surface: Revealing the Depths of Brain Activity by Predicting 
+fMRI from EEG with Deep Learning. bioRxiv 2024.11.20.624528 (2024). doi: https://doi.org/10.1101/2024.11.20.624528
+```
+@article {Semenkov2024.11.20.624528,
+	author = {Semenkov, Ilia and Rudych, Pavel and Ossadtchi, Alex},
+	title = {Beyond the Surface: Revealing the Depths of Brain Activity by Predicting fMRI from EEG with Deep Learning},
+	elocation-id = {2024.11.20.624528},
+	year = {2024},
+	doi = {10.1101/2024.11.20.624528},
+	publisher = {Cold Spring Harbor Laboratory},
+	URL = {https://www.biorxiv.org/content/early/2024/11/21/2024.11.20.624528},
+	eprint = {https://www.biorxiv.org/content/early/2024/11/21/2024.11.20.624528.full.pdf},
+	journal = {bioRxiv}
+}
+```
 
 If you use our data please also credit the creators of the original dataset:
 Telesford, Q.K., Gonzalez-Moreira, E., Xu, T. et al. An open-access dataset of naturalistic viewing using simultaneous 
